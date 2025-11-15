@@ -1,0 +1,22 @@
+*{
+    background-color: gray;
+    color: aliceblue;
+}
+h1{
+    text-align: center;
+    text-decoration: underline solid  orange 5px ;
+}
+.button{
+    background-color: white;
+    color: black;
+    font-size: large;
+}
+div{
+    display:block;
+}
+
+p{
+    font-size: 28px;
+    text-align: center;
+    margin: 0;
+}
