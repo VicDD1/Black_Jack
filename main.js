@@ -36,7 +36,6 @@ for(let i =0; i<2; i++){
     else{
         hand.push(cartes[rand])
     }
-    console.log("Main joueur : ",hand)
     let randi = Math.floor(Math.random()*13);
     if(cartes[randi]=="A" ){
         let sum=0 
@@ -54,7 +53,6 @@ for(let i =0; i<2; i++){
     else{
         dealerhand.push(cartes[randi])
     }
-    console.log("Main dealer : ",dealerhand)
 }
 scoredeal+=dealerhand[0]
 
