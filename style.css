@@ -20,3 +20,9 @@ p{
     text-align: center;
     margin: 0;
 }
+.visible{
+    display: inline;
+}
+.snake{
+    display: none;
+}
